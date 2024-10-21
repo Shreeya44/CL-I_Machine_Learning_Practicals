@@ -12,6 +12,9 @@ You have a dataset that includes measurements for different variables on milk qu
 so that most variations in the measurements of the variables are captured by a small 
 number of principal components so that it is easier to distinguish between red and 
 white wine by inspecting these principal components. 
+III.  Apply LDA Algorithm on Iris Dataset and classify which species a given flower 
+belongs to. 
+Dataset Link:https://www.kaggle.com/datasets/uciml/iris
 # 2.Regression Analysis: 
 I. Predict the price of the Uber ride from a given pickup point to the agreed drop-off 
 location. Perform following tasks:  
